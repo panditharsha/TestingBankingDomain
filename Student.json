@@ -1,0 +1,80 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "age": 18,
+      "grade": "12th",
+      "subjects": [
+        "Math",
+        "Physics",
+        "English"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "age": 17,
+      "grade": "11th",
+      "subjects": [
+        "Biology",
+        "Chemistry",
+        "History"
+      ]
+    },
+    {
+      "id": "2759",
+      "name": "Harshada Doe",
+      "age": 23,
+      "grade": "10th",
+      "subjects": [
+        "Math",
+        "Physics",
+        "English"
+      ]
+    },
+    {
+      "id": "6724",
+      "name": "Harshada Doe",
+      "age": 23,
+      "grade": "10th",
+      "subjects": [
+        "Math",
+        "Physics",
+        "English"
+      ]
+    },
+    {
+      "id": "e9a7",
+      "name": "sukitrti abhay",
+      "age": 25,
+      "grade": "12th",
+      "subjects": [
+        "Drama",
+        "Art",
+        "English"
+      ]
+    },
+    {
+      "id": "372f",
+      "name": "vikrt dd",
+      "age": 30,
+      "grade": "10th",
+      "subjects": [
+        "Math",
+        "English"
+      ]
+    },
+    {
+      "name": "vikrt Dudhale",
+      "age": 30,
+      "grade": "12th",
+      "subjects": [
+        "Math",
+        "IT",
+        "History"
+      ],
+      "id": "cfa2"
+    }
+  ]
+}
